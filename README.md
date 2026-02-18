@@ -57,7 +57,7 @@ Click the image above to read a full article on using the Wire Elements modal pa
 To get started, require the package via Composer:
 
 ```
-composer require wire-elements/modal:^2.0
+composer require wire-elements/modal
 ```
 
 ## Livewire directive
